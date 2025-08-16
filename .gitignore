@@ -1,0 +1,19 @@
+/1-Introduccion-a-Java/JavaApplication26/nbproject/private/
+/1-Introduccion-a-Java/JavaApplication26/build/
+
+# Ignorar archivos compilados
+*.class
+
+# Ignorar carpetas de salida
+/bin/
+/out/
+/target/
+
+# Ignorar archivos de IDE
+*.log
+*.iml
+.idea/
+.vscode/
+
+# Ignorar dependencias
+*.jar
