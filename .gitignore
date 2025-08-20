@@ -17,3 +17,4 @@
 
 # Ignorar dependencias
 *.jar
+/1-Introduccion-a-Java/JavaApplication26/dist/

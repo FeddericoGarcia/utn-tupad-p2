@@ -1,4 +1,4 @@
-package javaapp;
+package javaapp.TP1;
 
 import java.util.Scanner;
         
@@ -74,8 +74,7 @@ public class HolaMundo {
         System.out.print("Ingresa tu nombre: ");
         String nombre2 = scanner.nextLine();
         System.out.println("Hola, " + nombre);
-        
-        
+
     }
 
 }
