@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        /
+        
         //Ejercicio #1 - Registro de Estudiantes
         System.out.println("Ejercicio #1 - Registro de Estudiantes");
         Estudiante e = new Estudiante();
