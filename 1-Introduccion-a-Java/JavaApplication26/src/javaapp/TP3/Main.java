@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        /**
+        /
         //Ejercicio #1 - Registro de Estudiantes
         System.out.println("Ejercicio #1 - Registro de Estudiantes");
         Estudiante e = new Estudiante();
@@ -80,7 +80,7 @@ public class Main {
         g2.setHuevosPuestos(120);
         System.out.println("Gallina2:\nID="+ g2.getIdGallina() + ", \nEdad=" + 
                 g2.getEdad() +"\nHuevosPuestos="+ g2.getHuevosPuestos());
-        **/
+        
         //Ejercicio #5 - Simulación de Nave Espacial 
         System.out.println("Ejercicio #5 - Simulación de Nave Espacial ");
         NaveEspacial nave1 = new NaveEspacial();
@@ -94,7 +94,6 @@ public class Main {
         nave1.avanzar(100);
         nave1.despegar();
         nave1.mostrarEstado();
-        
         
     }
 
